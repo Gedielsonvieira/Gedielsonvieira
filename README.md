@@ -34,11 +34,11 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 </div>
 
-#### Next Level:
+<!--#### Next Level:
 <div style="display:inline_block">
     <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">&nbsp;
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-</div>
+</div>-->
 
 #### Connect with me:
 <div>
