@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Gedielson Vieira
 
 #### info:</br>
-- 📚 Studying Analysis Systems Development at SENAC-RS
-- 👩🏽‍💻 I'm a very curious person and love learning new stuff
-- 🔭 I’m currently working as hubspot developer
+- 📚 Studying Analysis Systems Development at Uninter-RS
+- 👩🏽‍💻 I am a very curious person and I love to solve problems in the best possible way
+- 🔭 I am currently working as a Java developer with Spring Boot
 </br>
 <div>
     <a href="https://github.com/Gedielsonvieira">
@@ -28,16 +28,14 @@ Here are some ideas to get you started:
 
 #### I'm learning:
 <div style="display:inline_block">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
+    
 </div>
 
 <!--#### Next Level:
 <div style="display:inline_block">
-    <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">&nbsp;
-    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;
 </div>-->
 
 #### Connect with me:
